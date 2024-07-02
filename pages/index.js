@@ -1,9 +1,5 @@
 function Home() {
-  return (
-    <>
-      <h1> Hemilly, quer casar comigo? se sim, da um mortal para traz! </h1>
-    </>
-  );
+  return <h1>Hellow Word</h1>;
 }
 
 export default Home;
